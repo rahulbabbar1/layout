@@ -73,7 +73,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:height= "90dp"
-        android:width= "180dp"
+        android:width=  "180dp"
         android:background ="#444444"
         android:layout_marginTop="5dp"/>
 </RelativeLayout>
