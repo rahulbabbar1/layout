@@ -74,6 +74,6 @@
         android:layout_alignParentEnd="true"
         android:height="90dp"
         android:width="180dp"
-        android:background ="#000000"
+        android:background ="#ffffff"
         android:layout_marginTop="5dp"/>
 </RelativeLayout>
