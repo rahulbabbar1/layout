@@ -71,7 +71,7 @@
         android:id="@+id/textView5"
         android:layout_below="@+id/textView4"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
+        android:layout_alignParentEnd= "true"
         android:height="90dp"
         android:width="180dp"
         android:background ="#ffffff"
